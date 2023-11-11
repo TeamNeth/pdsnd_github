@@ -13,3 +13,4 @@ Project 3 in Udacity programming for data science with python
 ### Credits
 Udacity and Access Bank and also to my Mentor, Ayodeji
 " Grateful" 
+"Udacity is Great for Learning" 
